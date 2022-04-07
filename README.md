@@ -178,7 +178,7 @@ Example response
 }
 ```
 
-###Error response
+### Error response
 Attributes 
 | name         | type   | description              |
 |--------------|--------|--------------------------|
