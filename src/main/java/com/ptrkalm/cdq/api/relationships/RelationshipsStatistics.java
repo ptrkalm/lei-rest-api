@@ -6,6 +6,6 @@ import lombok.Getter;
 @AllArgsConstructor @Getter
 public class RelationshipsStatistics {
     private long lowestNumberOfRelationsOfOneNode;
-    private String highestNumberOfRelationsOfOneNode;
+    private long highestNumberOfRelationsOfOneNode;
     private double averageNumberOfRelationsOfOneNode;
 }

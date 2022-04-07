@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ptrkalm.cdq</groupId>
-	<artifactId>task</artifactId>
+	<artifactId>ptrkalm.lei-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>task</name>
+	<name>lei-api</name>
 	<description>Recruitment task for CDQ</description>
 	<properties>
 		<java.version>17</java.version>

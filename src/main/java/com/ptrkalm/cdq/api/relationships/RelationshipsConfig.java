@@ -42,7 +42,7 @@ public class RelationshipsConfig {
 
         return new RelationshipsStatistics(
                 sortedNodes.first().getValue().size(),
-                sortedNodes.last().getKey(),
+                sortedNodes.last().getValue().size(),
                 (double) allRelationships().size() / relationshipsByNode().size()
         );
     }
