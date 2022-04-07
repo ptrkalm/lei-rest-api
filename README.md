@@ -150,6 +150,7 @@ Example response
 ### Get statistics of the dataset
 ```bash
 GET /relationships/statistics
+```
 
 Attributes
 | name                              | type   | description                               |
